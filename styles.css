@@ -1,1 +1,11 @@
-body{ background-color: red; }
+.h1{ background-color: red; }
+
+.big-title {
+  font-size: 10rem;
+  color: blue;
+  font-family: cursive;
+}
+
+.margin-50 {
+  margin: 50px;
+}
